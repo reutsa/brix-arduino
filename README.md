@@ -1,5 +1,5 @@
 # brix-arduino
-BRIX is a Arduino based game targeting young children, helping them acquire and improve basic counting skills.
+BRIX is an Arduino based game targeting young children, helping them acquire and improve basic counting skills.
 The goal of the game is to successfully count, identify and declare the exact number of squares on a card within 
 the given time frame. The smart game-board enables real-time feedback for the child and progress reports for the 
 parent via Android phone app. BRIX main differentiation element are the playing cards. The cards visualize numbers 
